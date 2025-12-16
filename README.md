@@ -1,35 +1,66 @@
-# AstroZen - Personal Portfolio Website
+export const config = {
+  name: "Akshita Mathur",
+  title: "Senior Product Analyst & Product Owner | CFP Certified",
+  email: "aksmathur2@gmail.com",
+  phone: "+91-9784649000",
+  linkedin: "https://linkedin.com/in/akshita-mathur-cfp-039a07139",
+  location: "Ahmedabad, India",
+  avatar: "/images/profile.jpg" // Upload your photo to public/images/
+}
+# About Me
 
-AstroZen is a minimalist, accessible and responsive portfolio template for your personal portfolio website. It is built with Astro and TailwindCSS.
+Senior Product Analyst & Product Owner with 3.5+ years building analytics platforms, CPQ automation, and financial risk SaaS. CFP certified expert in SQL/Snowflake, Power BI dashboards, Agile/Scrum, and stakeholder workshops. Passionate about fintech, healthcare products, and wellness entrepreneurship.
 
-![zen-og](https://github.com/user-attachments/assets/7a72aaae-6652-4cd0-becc-8e6a3c224993)
+**Key Achievements:**
+- Reduced data silos by 65% via Salesforce-Snowflake integration
+- Delivered Power BI dashboards with 80+ KPIs, 40% faster reporting
+- Secured $2M ARR expansion through SaaS roadmap design
+- Led CPQ automation cutting manual quoting by 25%
 
-> [!NOTE]
-> The information contained in this template, including names, images, and content, is entirely fictitious and is intended solely to give the design a realistic appearance. Any coincidence with real-life people, events, or situations is purely coincidental. It is recommended that you replace this information with your own information.
+[Download Resume](/resume.pdf)
+# Experience
 
-## 🔥 Features
+**Senior Product Analyst / Product Owner**  
+*Altimetrik India Pvt Ltd, Jaipur*  
+**July 2024 - Present**
 
-- [x] Minimalist design. clean and simple
-- [x] Mobile-first responsive layout
-- [x] SEO-friendly and accessible
-- [x] Easy to customize with a single configuration file
+- Orchestrated Commercial Data Platform integrating Salesforce, Snowflake, Qlik, Priority ERP - reduced data silos 65%, accelerated decisions 6 months
+- Delivered Power BI dashboards with 80 automated KPIs, role-based access - 40% faster reporting, 45% fewer discrepancies
+- Created Snowflake views & STTM documentation - 30% faster BI development, 35% fewer data issues
+- Led Agile sprints, UAT, executive demos - 30% faster delivery
 
-## ✅ Lighthouse Score
+**Product Analyst**  
+*Altimetrik India Pvt Ltd*  
+**July 2022 - June 2024**
 
-![performance](https://github.com/user-attachments/assets/4f95e2ca-03f9-4996-9e34-dcd179194c58)
+- Led CPQ workshops for international client - 45% clearer requirements, recommended optimal platform (35% faster eval
+# Skills & Tools
 
-## 🚀 Getting Started
+**Product Management**  
+Agile/Scrum, Sprint Planning, Backlog Management, User Stories, BRD/PRD, Stakeholder Workshops, KPI Definition
 
-Clone this repository to your local machine using Git.
+**Data & Analytics**  
+SQL, Snowflake, Power BI, MS Excel, Data Validation, STTM Mapping, SSOT
 
-```scheme
-git clone https://github.com/immois/astro-zen.git
-cd astro-zen
-```
+**Tools & Platforms**  
+Jira, Confluence, Salesforce, Conga CPQ, Qlik, Priority ERP, Python basics
 
-| Command        | Action                                       |
-| :------------- | :------------------------------------------- |
-| `pnpm install` | Installs dependencies                        |
-| `pnpm dev`     | Starts local dev server at `localhost:4321`  |
-| `pnpm build`   | Build your production site to `./dist/`      |
-| `pnpm preview` | Preview your build locally, before deploying |
+**Certifications**  
+Certified Financial Planner (CFP), Professional Scrum Product Owner (PSPO I), Generative AI & Prompt Engineering
+
+- Authored BRD/PRD using MoSCoW framework - 95% stakeholder alignment
+- Designed Fraud Risk SaaS roadmap - secured $2M ARR expansion for hospitality client
+# Education & Certifications
+
+**Master of Business Administration (Finance)**  
+*ICFAI Business School Hyderabad*  
+GPA: 8.74/10 | May 2020 - Feb 2022
+
+**Bachelor of Technology (Electrical & Electronics)**  
+*Manipal University Jaipur*  
+GPA: 8.03/10 | Aug 2014 - Jul 2018
+
+**Certifications**  
+- Certified Financial Planner (CFP)
+- Professional Scrum Product Owner (PSPO I)
+- Generative AI and Prompt Engineering
