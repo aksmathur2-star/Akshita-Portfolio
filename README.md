@@ -4,7 +4,6 @@ export const config = {
   email: "aksmathur2@gmail.com",
   phone: "+91-9784649000",
   linkedin: "https://linkedin.com/in/akshita-mathur-cfp-039a07139",
-  location: "Ahmedabad, India",
   avatar: "/images/profile.jpg" // Upload your photo to public/images/
 }
 # About Me
@@ -17,7 +16,6 @@ Senior Product Analyst & Product Owner with 3.5+ years building analytics platfo
 - Secured $2M ARR expansion through SaaS roadmap design
 - Led CPQ automation cutting manual quoting by 25%
 
-[Download Resume](/resume.pdf)
 # Experience
 
 **Senior Product Analyst / Product Owner**  
